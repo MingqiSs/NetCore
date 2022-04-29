@@ -3,3 +3,12 @@
 ################################################################################
 
 /Samples.IdentityServer4/Clinet/bin/Debug/netcoreapp3.1
+/Samples.IdentityServer4/Clinet/obj
+/Samples.IdentityServer4/Samples.Identity/bin/Debug/netcoreapp3.1
+/Samples.IdentityServer4/Samples.Identity/obj
+/Samples.IdentityServer4/Samples.Identity.Service/bin/Debug/netcoreapp3.1
+/Samples.IdentityServer4/Samples.Identity.Service/obj
+/Samples.IdentityServer4/Samples.Identity.User.Api/bin/Debug/netcoreapp3.1
+/Samples.IdentityServer4/Samples.Identity.User.Api/obj
+/Samples.IdentityServer4/Samples.IdentityServer4/bin/Debug/netcoreapp3.1
+/Samples.IdentityServer4/Samples.IdentityServer4/obj
